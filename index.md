@@ -1,5 +1,5 @@
 
-This has proved very easy so the next step is to make my blog in Jekyll and publish it using pages
+'This has proved very easy so the next step is to make my blog in Jekyll and publish it using pages'
 
 ## Welcome to GitHub Pages
 
