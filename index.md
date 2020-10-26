@@ -1,3 +1,6 @@
+
+This has proved very easy so the next step is to make my blog in Jekyll and publish it using pages
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/RickyRicardo180/MyJourney/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
